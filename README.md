@@ -1,7 +1,6 @@
-# hotspots
+# HOTSPOTS
 
-A new Flutter project.
-
+A flutter app to serve as a mini journal for great places a user has visited
 ## Getting Started
 
 This project is a starting point for a Flutter application.
